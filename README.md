@@ -12,6 +12,17 @@ The `datasplits` directory contains the training, validation and test subsets of
 Each data subset is specified using a text file that consists of the filenames of the images in that subset. 
 Please download the actual images directly from the corresponding dataset hosts.
 
+## Citation
 
+If you find this repo useful, please cite the following paper:
+
+```
+@inproceedings{knowledgetransfer2024,
+  title={Knowledge Transfer from Vision Foundation Models for Efficient Training of Small Task-specific Models},
+  author={Raviteja Vemulapalli, Hadi Pouransari, Fartash Faghri, Sachin Mehta, Mehrdad Farajtabar, Mohammad Rastegari, Oncel Tuzel},
+  booktitle={International Conference on Machine Learning (ICML)},
+  year={2024},
+}
+```
 
    
